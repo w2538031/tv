@@ -1,0 +1,27 @@
+#EXTM3U x-tvg-url="https://static.188766.xyz/e.xml"
+#EXTINF:-1 tvg-name="山东齐鲁高清" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/山东齐鲁高清.png" group-title="默认分组",山东齐鲁高清
+http://120.221.5.102:8089/PLTV/88888888/224/3221226045/index.m3u8
+#EXTINF:-1 tvg-name="山东影视高清" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/山东影视高清.png" group-title="默认分组",山东影视高清
+http://120.221.44.101:8089/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 tvg-name="山东公共高清" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/山东公共高清.png" group-title="默认分组",山东公共高清
+http://120.221.5.102:8089/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:-1 tvg-name="山东教育高清" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/山东教育高清.png" group-title="默认分组",山东教育高清
+http://120.221.5.102:8089/PLTV/88888888/224/3221226049/index.m3u8
+#EXTINF:-1 tvg-name="山东济南综合高清" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/山东济南综合高清.png" group-title="默认分组",山东济南综合高清
+http://ts1.ijntv.cn/xwhd/playlist.m3u8
+#EXTINF:-1 tvg-name="山东济南影视高清" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/山东济南影视高清.png" group-title="默认分组",山东济南影视高清
+http://ts1.ijntv.cn/yshd/hd/live.m3u8
+#EXTINF:-1 tvg-name="山东农科高清" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/山东农科高清.png" group-title="默认分组",山东农科高清
+http://120.221.5.102:8089/PLTV/88888888/224/3221226018/index.m3u8
+#EXTINF:-1 tvg-name="山东生活高清" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/山东生活高清.png" group-title="默认分组",山东生活高清
+http://120.221.5.102:8089/PLTV/88888888/224/3221225841/index.m3u8
+#EXTINF:-1 tvg-name="山东综艺高清" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/山东综艺高清.png" group-title="默认分组",山东综艺高清
+http://120.221.5.102:8089/PLTV/88888888/224/3221225855/index.m3u8
+#EXTINF:-1 tvg-name="山东少儿高清" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/山东少儿高清.png" group-title="默认分组",山东少儿高清
+http://120.221.5.102:8089/PLTV/88888888/224/3221226001/index.m3u8
+#EXTINF:-1 tvg-name="海看剧场高清" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/海看剧场高清.png" group-title="默认分组",海看剧场高清
+http://120.221.5.102:8089/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 tvg-name="海看少儿高清" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/海看少儿高清.png" group-title="默认分组",海看少儿高清
+http://120.221.5.102:8089/PLTV/88888888/224/3221225943/index.m3u8
+#EXTINF:-1 tvg-name="海看热播高清" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/海看热播高清.png" group-title="默认分组",海看热播高清
+http://120.221.5.102:8089/PLTV/88888888/224/3221225878/index.m3u8
